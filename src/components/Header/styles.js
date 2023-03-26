@@ -8,4 +8,5 @@ export const HeaderContainer = styled.header`
   height: 10rem;
   background-color: #eee;
   border-bottom: 1px solid #ccc;
+  margin-bottom: 3rem;
 `;
